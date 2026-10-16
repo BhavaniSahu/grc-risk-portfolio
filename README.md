@@ -23,4 +23,4 @@ A working portfolio of GRC analysis built during a self-directed technical study
 
 ## Why this exists
 
-Technical findings only create value once they're translated into a form auditors, risk committees, and business stakeholders can act on. Each entry in the risk register pairs the technical detail with a control mapping across three frameworks and a business-language explanation — the same translation exercise used in live control walkthroughs and audit interviews.
+Technical findings only create value once they're translated into a form auditors, risk committees, and business stakeholders can act on. Each entry in the risk register pairs the technical detail with a control mapping across three frameworks and a business-language explanation — the same translation exercise used in the audit is simulated for a fictional enterprise, Phacebuk.
